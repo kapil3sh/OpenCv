@@ -13,7 +13,7 @@ img = cv2.imread("watch_.jpg",cv2.IMREAD_GRAYSCALE)
 
 #plt.imshow(img, cmap='gray', interpolation = 'bicubic')
 #plt.plot([200,100], [200,100], 'c', linewidth=5)
-#plt.show()
+##plt.show()
 
 cap = cv2.VideoCapture(0)
 
